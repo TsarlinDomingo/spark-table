@@ -1,4 +1,7 @@
 {
-  "compilerOptions": {},
+  "compilerOptions": {
+    "strict": true,
+    "types": ["nativewind/types"]
+  },
   "extends": "@tsconfig/react-native/tsconfig.json"
 }
