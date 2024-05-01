@@ -1,8 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
+
 import WelcomeScreen from './src/Screens/WelcomeScreen';
 import InstructionScreen from './src/Screens/InstructionScreen';
+import QuestionScreen from './src/Screens/QuestionScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -17,6 +19,10 @@ export default function App() {
         <Stack.Screen
           name="Instructions"
           component={InstructionScreen}
+        />
+        <Stack.Screen
+          name="Question"
+          component={QuestionScreen}
         />
       </Stack.Navigator>
       <StatusBar style="auto" />
