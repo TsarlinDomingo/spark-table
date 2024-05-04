@@ -54,5 +54,10 @@ export const questions: Question[] = [
     id: 10,
     icon: '🛠️',
     prompt: 'What would you want to tell your child about the world of work?',
+  },
+  {
+    id: 11,
+    icon: '',
+    prompt: 'What small, inexpensive activities and things make you unusually happy?',
   }
 ];
