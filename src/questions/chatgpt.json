@@ -1,0 +1,27 @@
+[
+  {
+      "title": "Nuclear Fallout",
+      "context": "You are given the opportunity to travel back to the age of five and relive your entire life (knowing everything you now know). You will reexperience your entire adolescence with both the cognitive ability of an adult and the memories of everything you’ve learned from having lived your life previously. However, in order to do this, you must travel back to the age of five immediately (i.e., the opportunity will not exist in the future, nor will it ever present itself again).",
+      "question": "Would you choose to live your life over again, or do you keep your current life (knowing that you will never have this opportunity again)?"
+  },
+  {
+      "title": "Cardiac Standstill",
+      "context": "You are given the opportunity to visit the afterlife for a period of one hour. While in the afterlife, you will be able to interact with anyone you choose: deceased family members, historical figures, celebrities, or any other individual who has ever lived. You will have a full 60 minutes to ask these individuals any questions you want, or to engage in any kind of activity you desire. However, at the end of the hour, you will be returned to your current life (and everything will be exactly as it was before you left).",
+      "question": "Do you take this opportunity, or do you decline (knowing that you will never have another chance to visit the afterlife)?"
+  },
+  {
+      "title": "The Proverbial Man in the Room",
+      "context": "You are given the opportunity to meet any one person in history. This individual can be anyone: a political figure, an artist, a scientist, or even a fictional character. You will have one hour to speak with this person and ask them anything you want. However, at the end of the hour, you will be returned to your current life, and the meeting will have no impact on the future.",
+      "question": "Whom do you choose to meet, and why?"
+  },
+  {
+      "title": "The Bear Necessities",
+      "context": "You are walking through a forest when you suddenly come across a bear. The bear is large and appears to be agitated. It begins to approach you slowly, growling as it gets closer. You realize that you have no way to defend yourself, and the bear looks like it is ready to attack.",
+      "question": "Do you stand your ground and try to scare the bear away, or do you attempt to run and find safety?"
+  },
+  {
+      "title": "Interstellar Reflection",
+      "context": "You are an astronaut on a mission to explore a distant planet. Upon arrival, you discover that the planet is inhabited by intelligent life forms. These beings are similar to humans in many ways, but they possess advanced technology and knowledge that far surpasses anything on Earth. You are given the opportunity to learn from these beings and bring their knowledge back to Earth.",
+      "question": "Do you choose to stay on the planet and continue learning, or do you return to Earth with the knowledge you have already gained?"
+  }
+]
